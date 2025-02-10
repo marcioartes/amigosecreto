@@ -1,0 +1,23 @@
+{
+  "name": "challenge-amigo-secreto_pt-main",
+  "version": "1.0.0",
+  "description": "Este é um projeto realizado durante o curso de JavaScript Básico da [Alura](https://www.alura.com.br/) em parceria com a [Oracle Next Education](https://www.oracle.com/br/education/next-education/). O objetivo do projeto é criar um sorteio de amigo secreto.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcioartes/amigosecreto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcioartes/amigosecreto/issues"
+  },
+  "homepage": "https://github.com/marcioartes/amigosecreto#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
