@@ -1,6 +1,6 @@
-import adicionarAmigo from "./hooks/adicionarAmigo.js";
-import atualizarLista from "./hooks/atualizarLista.js";
-import sortearAmigo from "./hooks/sortearAmigo.js";
+import adicionarAmigo from "../src/hooks/adicionarAmigo.js";
+import atualizarLista from "../src/hooks/atualizarLista.js";
+import sortearAmigo from "../src/hooks/sortearAmigo.js";
 
 let amigos = [];
 
