@@ -19,5 +19,6 @@
   "homepage": "https://github.com/marcioartes/amigosecreto#readme",
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "type": "module"
 }
